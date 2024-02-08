@@ -27,3 +27,5 @@ A pivoted table is created for visualizing cohort data.
 
 Dynamic SQL
 Dynamic SQL is used to create a pivot table dynamically based on cohort indices.
+
+![(https://github.com/jayavardhana0409/Cohort-Analysis/blob/main/Dashboard%201.png)]
